@@ -462,6 +462,9 @@ body {
   border-radius:100%;
   margin:0 10px;
 }
+#inti{
+  width:250px;
+}
 @media (max-width: 768px){
   .foot-form-cont{
     width:400px;
